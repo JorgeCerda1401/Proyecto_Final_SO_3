@@ -1,0 +1,13 @@
+../Core/Src/main.c:80:6:vApplicationGetTimerTaskMemory	1
+../Core/Src/main.c:91:6:ADC_TimerCallback	3
+../Core/Src/main.c:105:6:UART_TimerCallback	1
+../Core/Src/main.c:118:5:main	1
+../Core/Src/main.c:206:6:SystemClock_Config	3
+../Core/Src/main.c:248:13:MX_ADC1_Init	3
+../Core/Src/main.c:300:13:MX_TIM6_Init	3
+../Core/Src/main.c:338:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:371:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:404:13:MX_GPIO_Init	1
+../Core/Src/main.c:441:6:StartDefaultTask	1
+../Core/Src/main.c:460:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:477:6:Error_Handler	1
